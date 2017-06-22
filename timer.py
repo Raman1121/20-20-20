@@ -8,7 +8,7 @@ def countdown(n):
 		if n==0:
 			s.call(['notify-send', '20-20-20', 'Woah man! Take a rest for 20 sec!!'])
 
-countdown(60)
+countdown(1200)
 
 
 
